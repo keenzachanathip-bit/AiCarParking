@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Generated YOLO output / model files
+runs/
+*.pt
+*.onnx
+
+# Large video files
+*.mp4
